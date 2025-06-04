@@ -1,4 +1,4 @@
-# el_cuadrupedo
+# barkour_cuadrupedo_ai
 # Simulación de Robot Cuadrúpedo con IA
 
 Proyecto de entrenamiento de un robot cuadrúpedo usando Aprendizaje por Refuerzo (PPO) en MuJoCo/MJX.
